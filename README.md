@@ -1,31 +1,38 @@
-# HR-Attrition-Dashboard-
-This HR Attrition Dashboard provides data-driven insights into employee retention, job satisfaction, promotions, and attrition trends. By analyzing 1,470 employees, it identifies key factors influencing workforce stability, such as:
+HR Analytics Dashboard – Power BI Project
+Overview:
+This project delivers a comprehensive analysis of employee data using Power BI, focusing on various HR aspects such as demographics, promotions, attrition, travel, and overtime. The dashboard provides interactive and visual insights that support data-driven decision-making for improving employee experience and retention strategies.
 
-✅ Department-wise attrition – Identifying which departments face the highest turnover
-✅ Job levels & promotion status – Understanding career growth and its impact on retention
-✅ Business travel impact – Evaluating how travel frequency correlates with attrition
-✅ Performance & job satisfaction – Assessing employee engagement and high-risk groups
-✅ Work distance analysis – Examining how commuting distance affects employee turnover
+Key Features:
+Total Employees: 1,470 employees, with a clear breakdown by gender and age group.
 
-Key Features
-📊 Interactive Power BI Dashboard for real-time insights
-📈 Data-driven decision-making to enhance HR strategies
-⚡ Actionable insights to reduce employee turnover
+Promotions: Analysis of employees eligible and not eligible for promotion, segmented by department and job role.
 
-Tech Stack & Tools
-Power BI (Data Visualization & Dashboarding)
-SQL (Data Extraction & Transformation)
-DAX (Advanced Calculations)
-Excel (Data Cleaning & Processing)
-How This Helps HR Teams
-By leveraging this dashboard, HR teams can identify trends, improve employee retention strategies, and reduce hiring costs through proactive decision-making.
+Retrenchment Risk: Visualization of employees at risk of retrenchment, categorized by department and role.
 
-📌 Feel free to explore the dataset and Power BI file in this repository! 🚀
+Overtime Analysis: Insight into how overtime affects employee attrition rates.
 
+Job Satisfaction: Classification of employees by satisfaction levels (High – Medium – Low).
 
+Distance from Work: Analysis of how far employees live from their workplace.
 
+Business Travel Frequency: Breakdown of employees by frequency of work-related travel.
 
+Attrition Rate: In-depth analysis of attrition rates across departments, education fields, and job levels.
 
+Objectives:
+Trend Identification: Understand workforce distribution across age, role, department, and geography.
 
+Strategic Decision Support: Enable HR and leadership teams to make informed, data-backed decisions.
 
+Spot Improvement Areas: Identify departments or employee segments that require intervention or engagement strategies.
 
+Interactive Interface: Provide an intuitive and user-friendly dashboard for continuous HR monitoring.
+
+Dashboard Sections:
+Dashboard Overview: General stats on total employees, age distribution, gender, promotion eligibility, retrenchment, and active workforce.
+
+Promotion & Retrenchment Insights: Department-wise analysis of promotion readiness and retrenchment likelihood.
+
+Employee Demographics & Travel: Employee segmentation by age range, gender, and travel patterns.
+
+Attrition & Department Insights: Attrition breakdown by department, education field, and job level.
